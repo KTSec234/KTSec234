@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Gupta</h1>
-<h3 align="center">A passionate AI Developer & Ethical Hacker from India</h3>
+<h3 align="center">A passionate Ethical Hacker & AI Developer  from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktsec234&label=Profile%20views&color=0e75b6&style=flat" alt="ktsec234" /> </p>
 
