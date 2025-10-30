@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a0cd394-613a-4d63-bb15-bcb9d1476b26" alt="Satya-Prakash" width="800" height="260" style="margin-left: 20px;">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kunal Gupta</h1>
 <h3 align="center">A passionate Ethical Hacker & AI Developer  from India</h3>
 
