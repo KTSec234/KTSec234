@@ -12,6 +12,20 @@
 - 💬 Ask me about **Bug Bounty , AI & ML Penetrate**
 
 - ⚡ Fun fact **I Think I Funny**
+## 🚀 My Skills
+
+<div align="center">
+
+| **Offensive Security** | **Defensive Security** | **Research & Development** |
+| :--- | :--- | :--- |
+| 💻 Penetration Testing | 🛡️ Web Application Security | 🔍 OSINT Techniques |
+| ⚡ Exploit Development | 📉 Incident Response | 🏗️ Security Architecture |
+| 🔒 Social Engineering | 🔐 Cryptography | 🌐 IoT Security |
+| 🕵️ Threat Hunting | ☁️ Cloud Security | ⚙️ Vulnerability Assessment |
+| 🦠 Malware Analysis | 📊 Cyber Risk Management | 🔍 SIEM & Threat Intelligence |
+| 🌐 Network Security | 🔒 Reverse Engineering | 📡 Wireless Security |
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
