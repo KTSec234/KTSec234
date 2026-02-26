@@ -19,6 +19,8 @@
 - ⚡ Fun fact **I Think I Funny**
 ## 🚀 My Skills
 
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" />
+
 <div align="center">
 
 | **Offensive Security** | **Defensive Security** | **Research & Development** |
