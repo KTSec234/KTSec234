@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Gupta</h1>
 <h3 align="center">A passionate Ethical Hacker & AI Developer  from India</h3>
 
-<img align="right" alt="coding" width="400" src="hacker.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktsec234&label=Profile%20views&color=0e75b6&style=flat" alt="ktsec234" /> </p>
 
